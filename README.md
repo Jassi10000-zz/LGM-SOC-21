@@ -1,7 +1,7 @@
-# LGM-SOC-21 👨‍💻🎉
+
 
 <p align="center">
-  <img src='https://github.com/Jassi10000/LGM-SOC-21/blob/main/Images/Asset%201wsdf-1.png' height="400px" width="460px">
+  <img src='Images/SUMMER OF CODE.png' width="100%">
 </p>
 
 <div align="center">
