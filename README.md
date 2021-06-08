@@ -35,6 +35,9 @@ You just have to click on the links to reach to the desired language or framewor
 ## Python 
 * https://youtu.be/kqtD5dpn9C8
 * https://youtu.be/rfscVS0vtbw
+
+## Sql 
+* https://youtu.be/1dWCqjhvF58
  
  ### Python with OpenCV
  * https://youtu.be/oXlwWbU8l2o
