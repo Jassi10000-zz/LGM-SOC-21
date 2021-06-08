@@ -39,6 +39,9 @@ You just have to click on the links to reach to the desired language or framewor
  ### Python with OpenCV
  * https://youtu.be/oXlwWbU8l2o
 
+## R Language 
+* https://www.youtube.com/watch?v=SBhpLnPuNlI
+
 ## Machine Learning
 * https://youtu.be/OuPMVdski3E
 
